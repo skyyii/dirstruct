@@ -9,10 +9,10 @@ A lightweight Python script that scans the current directory and writes the enti
 - Zero dependencies
 
 ## Usage
-1. Place `directory_structure.py` in your target directory
+1. Place `dirstruct.py` in your target directory
 2. Run:
    ```bash
-   python directory_structure.py
+   python dirstruct.py
    ```
 3. Find `structure.txt` in the same directory with your structure
 
